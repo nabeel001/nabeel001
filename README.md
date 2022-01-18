@@ -8,7 +8,7 @@
 
 ## 😎 About Me:   
 
-🏫 Pursuing Undergraduation in Information Technology student @ SSN College of Engineering. <br>
+🏫 Pursuing Undergraduation in Information Technology, student @ SSN College of Engineering. <br>
 ✨ Interested in Application Development, Data Science, Machine Learning and AI. <br>
 🤝🏻 Open to project collaborations. <br>
 <br/>
