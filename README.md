@@ -39,9 +39,13 @@
 
 ## ⚡ GitHub Stats:
 
-![Nabeel Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeel001&count_private=true&show_icons=true&theme=nightowl)
+![Nabeel Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeel001&count_private=true&show_icons=true&theme=nightowl&border_radius=10)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel001&layout=compact)](https://github.com/nabeel001/github-readme-stats)
+<br/>
+![Nabeel Hussain's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nabeel001&theme=nightowl&border_radius=10)
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel001&layout=compact&theme=nightowl&border_radius=10)](https://github.com/nabeel001/github-readme-stats)
 <br/>
 <br/>
 
