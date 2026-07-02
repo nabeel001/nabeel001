@@ -3,7 +3,7 @@
 # 👋Hi, I'm Nabeel Hussain 👨🏻‍💻
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nabeel001&label=Profile%20views&color=667eea&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nabeel001&base=346&label=Profile%20views&color=667eea&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nabeel001?label=Followers&style=for-the-badge&color=764ba2&logoColor=white" alt="GitHub Followers" />
 </p>
 
