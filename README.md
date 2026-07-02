@@ -1,9 +1,17 @@
-# Hi👋, I'm Nabeel Hussain 👨🏻‍🎓👨🏻‍💻
+<div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/nabeel001/)
-](https://www.linkedin.com/in/nabeel001/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E1306C?style=flat&logo=instagram&labelColor=white&link=https://www.instagram.com/_Noble001/)](https://www.instagram.com/_Noble001/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=white&link=mailto:mnnh2001@gmail.com)](mailto:mnnh2001@gmail.com)
+# 👋Hi, I'm Nabeel Hussain 👨🏻‍💻
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nabeel001&label=Profile%20views&color=667eea&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nabeel001?label=Followers&style=for-the-badge&color=764ba2&logoColor=white" alt="GitHub Followers" />
+</p>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K)](https://www.linkedin.com/in/nabeel001/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E1306C?style=flat&logo=instagram&logoColor=#FF0069&labelColor=white&link=https://www.instagram.com/_Noble001/)](https://www.instagram.com/_Noble001/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mnnh2001@gmail.com)
+
+</div>
 
 
 ## 😎 About Me:   
@@ -39,19 +47,32 @@
 
 ## ⚡ GitHub Stats:
 
-![Nabeel Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeel001&count_private=true&show_icons=true&theme=nightowl&border_radius=10)
-<br/>
-<br/>
-![Nabeel Hussain's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nabeel001&theme=nightowl&border_radius=10)
-<br/>
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel001&layout=compact&theme=nightowl&border_radius=10)](https://github.com/nabeel001/github-readme-stats)
-<br/>
-<br/>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nabeel001&theme=nightowl&hide_border=true&border_radius=10"
+    alt="Nabeel Hussain's GitHub streak stats"
+    width="60%"
+  />
+</p>
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nabeel001&theme=nightowl"
+    width="40%"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nabeel001&theme=nightowl&border_radius=10"
+    width="40%"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nabeel001&theme=nightowl&border_radius=10"
+    width="90%"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
 
 [![@nabeel001's Holopin board](https://holopin.me/nabeel001)](https://holopin.io/@nabeel001)
-
-## 🚏 Visitor Count: 
- <img src="https://profile-counter.glitch.me/nabeel001/count.svg" />
  
  
