@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋Hi, I'm Nabeel Hussain 👨🏻‍💻
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="70%">
 
-<p align="center">
+# Hi <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30"/>, I'm Nabeel Hussain 👨🏻‍💻
+
+<p align="center">  
   <img src="https://komarev.com/ghpvc/?username=nabeel001&base=346&label=Profile%20views&color=667eea&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/nabeel001?tab=followers">
     <img src="https://img.shields.io/github/followers/nabeel001?label=Followers&style=for-the-badge&color=764ba2&logoColor=white" alt="GitHub Followers" />
@@ -57,13 +59,10 @@
   />
 </p>
 <p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabeel001&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" width="50%"/>
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nabeel001&theme=nightowl"
-    width="40%"
-  />
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nabeel001&theme=nightowl&border_radius=10"
-    width="40%"
+    width="33.5%"
   />
 </p>
 <p align="center">
