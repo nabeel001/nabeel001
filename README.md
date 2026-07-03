@@ -68,7 +68,7 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabeel001&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" width="50%"/>
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nabeel001&theme=nightowl"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nabeel001&theme=nightowl"
     width="33.5%"
   />
 </p>
