@@ -1,8 +1,12 @@
-<div align="center">
+<div align="center"><a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;"></a></div>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="70%">
+<div align="center">
+  
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="60%"> -->
 
 # Hi <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30"/>, I'm Nabeel Hussain 👨🏻‍💻
+
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=nabeel001&base=346&label=Profile%20views&color=667eea&style=for-the-badge" alt="Profile Views" />
@@ -15,12 +19,11 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E1306C?style=flat&logo=instagram&logoColor=#FF0069&labelColor=white&link=https://www.instagram.com/_Noble001/)](https://www.instagram.com/_Noble001/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mnnh2001@gmail.com)
 
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
 </div>
 
 
-## 😎 About Me:   
+## 😎 About Me:
 
 🏫 Graduate in Information Technology, from SSN College of Engineering. <br>
 ✨ Interested in Software Development, Data Science, Machine Learning and AI. <br>
@@ -53,6 +56,8 @@
 
 ## ⚡ GitHub Stats:
 
+![Snake animation](https://raw.githubusercontent.com/nabeel001/nabeel001/output/github-contribution-grid-snake-dark.svg)
+    
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=nabeel001&theme=nightowl&hide_border=true&border_radius=10"
