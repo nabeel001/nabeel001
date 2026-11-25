@@ -59,7 +59,6 @@
     <img alt="GCP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" />
     <img alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />
     <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-    <img alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
   </kbd>
 </div>
 <br/>
