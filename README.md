@@ -107,14 +107,14 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api?username=nabeel001&show_icons=true&rank_icon=github&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"
+        srcset="https://github-stats-extended.vercel.app/api?username=nabeel001&show_icons=true&rank_icon=github&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api?username=nabeel001&show_icons=true&rank_icon=github&theme=buefy&include_all_commits=true&count_private=true&hide_border=true"
+        srcset="https://github-stats-extended.vercel.app/api?username=nabeel001&show_icons=true&rank_icon=github&theme=buefy&include_all_commits=true&count_private=true&hide_border=true"
       />
       <img
-        src="https://github-readme-stats.vercel.app/api?username=nabeel001&show_icons=true&rank_icon=github&theme=buefy&include_all_commits=true&count_private=true&hide_border=true"
+        src="https://github-stats-extended.vercel.app/api?username=nabeel001&show_icons=true&rank_icon=github&theme=buefy&include_all_commits=true&count_private=true&hide_border=true"
         alt="@nabeel001's GitHub stats"
       />
     </picture>
